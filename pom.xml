@@ -11,6 +11,7 @@
     <groupId>com.clutchproject</groupId>
     <artifactId>parent</artifactId>
     <version>0.1-SNAPSHOT</version>
+    <name>parent</name>
 
     <description><![CDATA[
         Parent POM with commonly used pre-configured features
